@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling Bluetooth headphones with premium sound quality.",
+      "price": 120.99,
+      "stock": 50,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Smartphone Stand",
+      "description": "Adjustable phone stand for hands-free video watching and zoom calls.",
+      "price": 15.49,
+      "stock": 100,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Portable Power Bank",
+      "description": "5000mAh power bank for on-the-go charging.",
+      "price": 25.99,
+      "stock": 150,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "description": "Compact wireless speaker with deep bass and clear sound.",
+      "price": 35.99,
+      "stock": 200,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Fitness Tracker",
+      "description": "Water-resistant smart band with heart rate monitor.",
+      "price": 49.99,
+      "stock": 80,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Laptop Sleeve",
+      "description": "Protective case for 13-inch laptops, made from durable materials.",
+      "price": 18.99,
+      "stock": 60,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "LED Desk Lamp",
+      "description": "Energy-efficient desk lamp with adjustable brightness and color temperature.",
+      "price": 27.49,
+      "stock": 40,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Smart Watch",
+      "description": "Stylish smart watch with fitness tracking and notifications.",
+      "price": 89.99,
+      "stock": 120,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with customizable buttons.",
+      "price": 19.99,
+      "stock": 300,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Smartphone Case",
+      "description": "Durable phone case for extra protection.",
+      "price": 12.99,
+      "stock": 500,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "External Hard Drive",
+      "description": "1TB external storage for backup and data transfer.",
+      "price": 69.99,
+      "stock": 30,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charging pad for phones and accessories.",
+      "price": 29.99,
+      "stock": 90,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Bluetooth Earbuds",
+      "description": "True wireless earbuds with great sound quality.",
+      "price": 45.99,
+      "stock": 110,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Digital Camera",
+      "description": "High-definition digital camera with zoom lens.",
+      "price": 399.99,
+      "stock": 15,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Action Camera",
+      "description": "Waterproof action camera with 4K resolution.",
+      "price": 159.99,
+      "stock": 35,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Gaming Keyboard",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 79.99,
+      "stock": 75,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Gaming Mouse",
+      "description": "Precision gaming mouse with customizable DPI.",
+      "price": 39.99,
+      "stock": 140,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Webcam",
+      "description": "High-definition webcam for video calls and streaming.",
+      "price": 49.99,
+      "stock": 200,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "Portable Speaker",
+      "description": "Compact portable speaker for outdoor use.",
+      "price": 39.99,
+      "stock": 100,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    },
+    {
+      "name": "VR Headset",
+      "description": "Virtual reality headset for immersive gaming experience.",
+      "price": 299.99,
+      "stock": 50,
+      "image": "https://cdn.pixabay.com/photo/2023/06/04/23/47/rufus-8041082_1280.jpg"
+    }
+  ]
+  
